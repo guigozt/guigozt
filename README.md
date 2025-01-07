@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Contatos</h2>
+<h2 align="left">Contatos 📲</h2>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="left">Estou aprendendo</h2>
+<h2 align="left">Estou aprendendo 📚</h2>
 
 ###
 
@@ -60,7 +60,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=guigozt&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=guigozt&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guigozt&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="145" alt="languages graph"  />
 </div>
 
