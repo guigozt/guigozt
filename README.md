@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">Tecnologias mais usadas</h2>
+<h2 align="left">Tecnologias mais utilizadas </h2>
 
 ###
 
@@ -30,16 +30,15 @@
 
 ###
 
-<h2 align="left">Tecnologias que estou aprendendo</h2>
+<h2 align="left">Outras tecnologias que tenho experiência </h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
 </div>
 
 ###
