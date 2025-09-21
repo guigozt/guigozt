@@ -66,7 +66,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://wa.me/5511948458252" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="60" height="40" alt="whatsapp logo"  />
   </a>
