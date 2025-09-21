@@ -1,46 +1,61 @@
-<br clear="both">
-
-<h1 align="left">Olá, eu me chamo Guilherme Gomes</h1>
+<h2 align="left">Olá, eu me chamo Guilherme Gomes</h2>
 
 ###
 
-<p align="left">Tenho 21 anos de idade. Estou a cada dia aprimorando meus conhecimentos e habilidades na área da Programação Full Stack.  Sou formado no curso Técnico em Desenvolvimento de Sistemas pela instituição ETEC e atualmente estou cursando o Superior em Desenvolvimento de Software Multiplataforma na Fatec 👨‍🎓<br>Além disso, sou fã de cinema, música e jogos de vídeo game. Desenho e escrevo poemas e histórias autorais. ✍💻</p>
+<h3 align="left">Sobre mim</h3>
 
 ###
 
-<h2 align="left">Tecnologias mais utilizadas </h2>
+<p align="left">Tenho 21 anos de idade. Estou a cada dia aprimorando meus conhecimentos e habilidades na área da Programação Full-Stack, com foco no Back-End. <br><br>Sou formado no curso Técnico em Desenvolvimento de Sistemas pela instituição ETEC e atualmente estou cursando o Superior em Desenvolvimento de Software Multiplataforma na Fatec 👨‍🎓<br><br>Além disso, sou fã de cinema, música e jogos de vídeo game. Desenho e escrevo poemas e histórias autorais. ✍💻</p>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+<h3 align="left">About me</h3>
+
+###
+
+<p align="left">I am 21 years old. Every day I am improving my knowledge and skills in the field of Full-Stack Programming, focusing on Back-End.<br><br>I graduated from the Technical Course in Systems Development at ETEC and I am currently pursuing a Bachelor's Degree in Multiplatform Software Development at Fatec 👨‍🎓<br><br>In addition, I am a fan of movies, music, and video games. I draw and write poems and original stories. ✍💻</p>
+
+###
+
+<h2 align="left">Tecnologias mais utilizadas</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="csharp logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="45" alt="javascript logo"  />
 </div>
 
 ###
 
-<h2 align="left">Outras tecnologias que tenho experiência </h2>
+<h2 align="left">Outras tecnologias que tenho experiência</h2>
 
 ###
 
-<div align="left">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
-  <img width="12" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
 ###
