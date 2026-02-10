@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Tenho 21 anos de idade. Estou a cada dia aprimorando meus conhecimentos e habilidades na área da Programação Full-Stack, com foco no Back-End. <br><br>Sou formado no curso Técnico em Desenvolvimento de Sistemas pela instituição ETEC e atualmente estou cursando o Superior em Desenvolvimento de Software Multiplataforma na Fatec 👨‍🎓<br><br>Além disso, sou fã de cinema, música e jogos de vídeo game. Desenho e escrevo poemas e histórias autorais. ✍💻</p>
+<p align="left">Tenho 22 anos de idade. Estou a cada dia aprimorando meus conhecimentos e habilidades na área da Programação Full-Stack, com foco no Back-End. <br><br>Sou formado no curso Técnico em Desenvolvimento de Sistemas pela instituição ETEC e atualmente estou cursando o Superior em Desenvolvimento de Software Multiplataforma na Fatec 👨‍🎓<br><br>Além disso, sou fã de cinema, música e jogos de vídeo game. Desenho e escrevo poemas e histórias autorais. ✍💻</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I am 21 years old. Every day I am improving my knowledge and skills in the field of Full-Stack Programming, focusing on Back-End.<br><br>I graduated from the Technical Course in Systems Development at ETEC and I am currently pursuing a Bachelor's Degree in Multiplatform Software Development at Fatec 👨‍🎓<br><br>In addition, I am a fan of movies, music, and video games. I draw and write poems and original stories. ✍💻</p>
+<p align="left">I am 22 years old. Every day I am improving my knowledge and skills in the field of Full-Stack Programming, focusing on Back-End.<br><br>I graduated from the Technical Course in Systems Development at ETEC and I am currently pursuing a Bachelor's Degree in Multiplatform Software Development at Fatec 👨‍🎓<br><br>In addition, I am a fan of movies, music, and video games. I draw and write poems and original stories. ✍💻</p>
 
 ###
 
